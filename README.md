@@ -46,8 +46,7 @@ The Inventory Management System is a Python and MySQL-based application develope
 
 ## 🔮 Future Enhancements
 
-- Order History
-- Sales Reports
+
 - Profit Reports
 - Streamlit GUI
 - Email Bill Generation
