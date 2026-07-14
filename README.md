@@ -43,43 +43,43 @@ The Inventory Management System is a Python and MySQL-based application develope
 ## 📸 Project Screenshots
 
 ### Owner Login
-![Owner Login](screenshots/owner_login.png)
+![Owner Login](owner_login.png)
 
 ### Owner Menu
-![Owner Menu](screenshots/owner_menu.png)
+![Owner Menu](owner_menu.png)
 
 ### Add Product
-![Add Product](screenshots/owner_add_product.png)
+![Add Product](owner_add_product.png)
 
 ### View Products
-![View Products](screenshots/owner_view_product.png)
+![View Products](owner_view_product.png)
 
 ### Update Product
-![Update Product](screenshots/owner_update_product.png)
+![Update Product](owner_update_product.png)
 
 ### Delete Product
-![Delete Product](screenshots/owner_delete_product.png)
+![Delete Product](owner_delete_product.png)
 
 ### Search Product
-![Search Product](screenshots/owner_search_product.png)
+![Search Product](owner_search_product.png)
 
 ### Order History
-![Order History](screenshots/owner_order_history.png)
+![Order History](owner_order_history.png)
 
 ### Sales Report
-![Sales Report](screenshots/owner_sales_report.png)
+![Sales Report](owner_sales_report.png)
 
 ### User Registration
-![User Registration](screenshots/user_registration.png)
+![User Registration](user_registration.png)
 
 ### User Login
-![User Login](screenshots/user_login.png)
+![User Login](user_login.png)
 
 ### User View Products
-![User View Products](screenshots/user_view_products.png)
+![User View Products](user_view_products.png)
 
 ### Bill Generation
-![Bill Generation](screenshots/user_bill.png)
+![Bill Generation](user_bill.png)
 
 
 ## 🔮 Future Enhancements
